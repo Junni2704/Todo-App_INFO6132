@@ -77,7 +77,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Image source={require('/Users/junaidahmed/ToDo_App/assets/images/logo.png')} style={styles.logo} />
+        <Image source={require('/Users/junaidahmed/Desktop/Todo-App_INFO6132/assets/images/logo.png')} style={styles.logo} />
         <Text style={styles.appName}>TaskBuddy</Text>
       </View>
       <View style={styles.list}>
